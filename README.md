@@ -1,11 +1,11 @@
-# BET-JACKPOT 🎰
+# JACKPOT-BET-REWARD 🎰
 
 A **Spring Boot** microservice for managing jackpot betting with **Kafka** event streaming, **H2** database, and *
 *enterprise-grade** validation.
 
 ## 🎯 Project Summary
 
-**BET-JACKPOT** is a distributed betting system that handles:
+**JACKPOT-BET-REWARD** is a distributed betting system that handles:
 
 - **Bet Placement**: RESTful API for placing bets with comprehensive validation
 - **Jackpot Management**: Multiple jackpot types (Fixed/Variable contribution & reward strategies)
@@ -34,7 +34,7 @@ A **Spring Boot** microservice for managing jackpot betting with **Kafka** event
 
 ```bash
 git clone https://github.com/dyte/jackpot-bet-reward-task.git
-cd bet-jackpot
+cd jackpot-bet-reward-task
 ```
 
 ### Step 2: Environment Setup
